@@ -1,0 +1,17 @@
+# REQUIRES TO FIRST EVALUATE THE FOLLOWING
+# (add-to-list 'org-latex-packages-alist
+#              '("AUTO" "babel" t ("pdflatex")))
+
+
+
+#+AUTHOR: Daniel Nicolai
+#+EMAIL: dalanicolai@gmail.com
+#+TITLE: Design of MOT-optics and imaging
+#+TITLE: system for quantum simulation
+#+TITLE: experiments in a lattice of microtraps on
+#+TITLE: an atom chip
+#+SUBTITLE: Including assessment of microscope with computer simulations and bench tests
+#+LATEX_CLASS: report
+#+LATEX_COMPILER: pdflatex
+
+Hoi
